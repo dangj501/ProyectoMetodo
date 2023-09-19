@@ -47,6 +47,6 @@ public class Conector {
         return istancia;
     }
     public void comprobar(){
-        
+        int numero;
     }
 }
