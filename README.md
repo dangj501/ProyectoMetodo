@@ -1,2 +1,0 @@
-# ProyectoMetodo
-## Prueba 1
